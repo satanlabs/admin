@@ -1,6 +1,6 @@
 # admin (front-end code container)
 
- - This repo. is being used to host the admin-panel (front-end) on GitHub @ https://admin.satanlabs.com
+ - This repo. is being used to host the admin-panel (front-end/website) on GitHub.
 
  - This repo. contains TRANSPILED CODE - from the `admin-panel` repository.
 
