@@ -1,5 +1,8 @@
 {
     "lastUpdatedBy": "satanlabs-admin",
-    "lastUpdatedOn": "Sun May  8 02:36:35 IST 2022",
-    "version": "v2.1.1"
+    "lastUpdatedOn": "Sat May 14 21:06:32 IST 2022",
+    "version": "v2.1.2",
+    "changes": [
+        "added weight page"
+    ]
 }
