@@ -1,8 +1,8 @@
 {
     "lastUpdatedBy": "satanlabs-admin",
-    "lastUpdatedOn": "Sun May 22 17:33:54 IST 2022",
-    "version": "v2.1.3",
+    "lastUpdatedOn": "Fri May 27 20:53:27 IST 2022",
+    "version": "v2.1.4",
     "changes": [
-        "added weight graph page"
+        "token validity time is now dynamic"
     ]
 }
