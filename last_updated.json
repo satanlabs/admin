@@ -1,8 +1,9 @@
 {
     "lastUpdatedBy": "satanlabs-admin",
-    "lastUpdatedOn": "Sun Jun 18 19:52:26 IST 2023",
-    "version": "v2.3.2",
+    "lastUpdatedOn": "Sun Jul  9 00:39:41 IST 2023",
+    "version": "v2.4.0",
     "changes": [
+        "new improvements",
         "bug fixes"
     ]
 }
